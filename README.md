@@ -9,7 +9,7 @@ This is the repository of
 
 ### Usage guidelines ###
 
-* Kindly cite our publication if you use any part of the data labels
+* Our Publications:
 
 ```
 @article{das2021towards,
